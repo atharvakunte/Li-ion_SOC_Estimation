@@ -1,1 +1,2 @@
-# SOC_ESTIMATION
+# SOC Estimation of Li-ion Battery using MLP
+
